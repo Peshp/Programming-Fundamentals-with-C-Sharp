@@ -1,2 +1,2 @@
-# Programming-Fundamentals-with-C-
+# Programming-Fundamentals-with-C Sharp-
 Softuni fundamentals module
