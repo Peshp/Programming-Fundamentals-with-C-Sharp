@@ -29,4 +29,5 @@ This lecture introduces us to ways to efficiently sort and parse string informat
 This is the last lecture in the course. Introduces us to working with regex
 
 Softuni programming fundamentals with C#
+![Programming Fundamentals with C# - May 2022 - Certificate](https://user-images.githubusercontent.com/98225837/206904276-73314a48-b6fa-4c7b-b84d-0d50af9b0ec5.jpeg)
 
